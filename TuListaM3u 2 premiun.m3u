@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF: -1,STARS Chanel hd
+http://190.83.119.67:8000/play/a038/index.m3u8
+#EXTINF: -1,Multi Premier hd
+http://160.20.165.245:8000/play/a00b/index.m3u8
+#EXTINF: -1,A&E hd
+http://160.20.165.245:8000/play/a00k/index.m3u8
+#EXTINF: -1,Studio Universal
+http://160.20.165.245:8000/play/a01c/index.m3u8
+#EXTINF: -1,SyFy hd
+http://160.20.165.245:8000/play/a01e/index.m3u8
+#EXTINF: -1,Universalhd
+http://160.20.165.245:8000/play/a01d/index.m3u8
+#EXTINF: -1,AZ Clikc hd
+http://45.169.99.154:58001/play/a01b/index.m3u8
+#EXTINF: -1,DHE hd
+http://45.169.99.154:58001/play/a01a/index.m3u8
+#EXTINF: -1,E! Entertanine
+http://45.169.99.154:58001/play/a012/index.m3u8
+#EXTINF: -1,Paramout hd
+http://45.169.99.154:58001/play/a00p/index.m3u8
+#EXTINF: -1,Sony Chanel HD
+http://45.169.99.154:58001/play/a02l/index.m3u8
+#EXTINF: -1,WARNER HD
+http://45.169.99.154:58001/play/a02k/index.m3u8
